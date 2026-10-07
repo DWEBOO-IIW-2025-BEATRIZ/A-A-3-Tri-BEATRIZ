@@ -1,8 +1,3 @@
-// const nome="Nomezinho"; não pode ser reatribuída
-// let contador=0; - o valor não pode ser alterado 
-//var antigo="evite"; forma antiga não use!
-//nome="joonhnnnn";
-//dia 07-10
 
 const texto="Pense em um texto lindo aqui";
 const num=42;
