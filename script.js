@@ -5,7 +5,7 @@ const ativo= true;
 console.log(typeof texto);
 console.log(typeof num);
 console.log(typeof ativo);
-
+m
 console.log("É o que temos para o momento");
 let nomeDaVariavel="valor de outra variável";
 let variavelNumero="1980";
