@@ -1,8 +1,8 @@
 console.log("É o que temos para o momento");
-var nomeDaVariavel="valor de outra variável";
-var variavelNumero="1980";
-var variavelCheironaSala= false;
-var variavelIndefinida;
+let nomeDaVariavel="valor de outra variável";
+let variavelNumero="1980";
+let variavelCheironaSala= false;
+let variavelIndefinida;
 
 console.log(nomeDaVariavel);
 console.log(outraVarievel);
